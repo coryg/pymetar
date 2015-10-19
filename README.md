@@ -13,5 +13,5 @@ obs = METARObservation("METAR KXNA 162053Z 01009KT 10SM CLR "
 
 print(obs.temp)
 
-19.4 C
+'19.4 C'
 ```
